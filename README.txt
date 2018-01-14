@@ -17,3 +17,14 @@ scp Dest_name @ Dest_IP: File_from_dest Location_in_the_sorce
 Then run the server at the destination.
 
 When the server is activated with the target, we will activate the client with us and request a file from the destination.
+
+@refernce:
+
+Port scanning: 
+  http://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python
+  
+brute force ssh:
+  https://www.youtube.com/watch?v=aL4uckPsq7g
+
+FTP Server and Client:
+  http://www.techinfected.net/2017/07/create-simple-ftp-server-client-in-python.html
