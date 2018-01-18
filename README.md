@@ -1,6 +1,6 @@
 # Project Launch Instructions:
 
-When we run the code ?? Was asked to enter an IP address of the destination computer, hostname, track of a file with passwords for the logon and port experiment.
+When we run the code Hacking_SSH.py was asked to enter an IP address of the destination computer, hostname, track of a file with passwords for the logon and port experiment.
 
 The program will check which ports are open, and output a file with the ports and whether each is open or closed.
 
