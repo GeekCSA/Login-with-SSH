@@ -10,7 +10,7 @@ If the entrance is successful, access to the destination terminal will be possib
 
 Then we will move the FTP server to the destination by command:
 
-scp Dest_name @ Dest_IP: File_from_dest Location_in_the_sorce
+scp <Dest_name> @ <Dest_IP>: <File_from_dest> <Location_in_the_sorce>
 
 (The command copy file from dest to sorce)
 
