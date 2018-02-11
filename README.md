@@ -29,5 +29,4 @@ brute force ssh:
 FTP Server and Client:
   http://www.techinfected.net/2017/07/create-simple-ftp-server-client-in-python.html
 
-Note: A large database of passwords can be found at the following link:
-  https://github.com/danielmiessler/SecLists/tree/master/Passwords
+Note: A large database of passwords can be found at the following link:    https://github.com/danielmiessler/SecLists/tree/master/Passwords
