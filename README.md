@@ -31,4 +31,4 @@ FTP Server and Client:
 
 Note: A large database of passwords can be found at the following link:    https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
-This project is for educational purposes only and not for illegal uses
+This project is for educational purposes only and not for illegal uses.
